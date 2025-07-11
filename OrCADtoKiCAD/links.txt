@@ -1,0 +1,23 @@
+Import Cadence Allegro layouts
+https://gitlab.com/kicad/code/kicad/-/issues/9239
+
+Converter to convert edif file format into kicad netlist
+https://github.com/svn2github/edif2kicad
+
+KiCAD gitlab issue about a possible OrCAD schematic importer
+https://gitlab.com/kicad/code/kicad/-/issues/18208
+
+KiCAD gitlab issue about importing Cadence OrCAD schematics
+https://gitlab.com/kicad/code/kicad/-/issues/20122
+
+Orcad board parser. Link appears to be broken :(
+https://github.com/jeffwheeler/brd_parser
+
+C++ library that can parse OrCAD binary schematic format. Maybe a useful starting point?
+https://github.com/Werni2A/OpenOrCadParser
+
+Program to assembly KiCAD S-expression netlist from OrCAD Tango netlist
+https://github.com/ehrenberdg/OrCAD2KiCADtranslator
+
+Orcad to KiCAD netlist converter. Rather old. Written in c
+https://github.com/bobc/rnif2ki

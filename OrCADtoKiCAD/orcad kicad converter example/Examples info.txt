@@ -1,0 +1,16 @@
+Orcad and Kicad in respective folders. 
+Both schematics printed to pdf for reference. Not neccesarily exact coordinate matches for lines and component placements.
+
+
+
+Kicad schematic file .sch.  Human readable. 2424 lines. Drawn using kicad version 9.0
+
+Orcad schematic file .dsn. Binary blob. Drawn using OrCAD version 23.1. Maybe parseable by c++ tool?
+Using the dsn file directly is most elegant. But not worth a lot of extra hassle.
+
+Orcad exported edif file: "EXAMPLE.EDF" Human readable. Maybe this format is easier? looks similar ish to kicad format.
+
+Orcad exported xml: "example.xml". Looks a little messy? Might work.
+
+
+Parsing a lot of component infomation is very valuable. Such as notefied number, vendor, vendor part number, min/max temperatures etc.

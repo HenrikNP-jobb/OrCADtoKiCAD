@@ -1,0 +1,3139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Design xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="c:\cadence\spb_23.1\tools\capture\tclscripts\capdb\dsn.xsd">
+
+  <Defn name="c:\users\jr\documents\orcad kicad converter examples\orcad\example.dsn" objectType="SCHEMATIC" rootName="SCHEMATIC1" useExplicitDbId="1"/>
+
+  <DefaultValues>
+    <Defn/>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="0" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="1" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="2" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="8" index="3" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="8" index="4" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="5" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="6" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="7" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="8" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="10" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="11" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="12" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="13" italic="0" name="Courier New" orientation="0" weight="400" width="5"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="14" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="15" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="16" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="8" index="17" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="8" index="18" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="8" index="19" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="8" index="20" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="8" index="21" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="8" index="22" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="8" index="23" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+    </DefaultFont>
+    <DefaultPageRec>
+      <Defn ANSIGridRefs="1" BorderDisplayed="1" BorderPrinted="1" GridRefDisplayed="1" GridRefPrinted="1" HorizontalLabelCount="5" HorizontalLabelIsAscending="0" HorizontalLabelIsChar="0" HorizontalLabelWidth="100" IsMetric="0" PinToPin="100" TitleBlockDisplayed="1" TitleBlockPrinted="1" VerticalLabelCount="4" VerticalLabelIsAscending="0" VerticalLabelIsChar="1" VerticalLabelWidth="100"/>
+    </DefaultPageRec>
+    <DefaultPlacedInstIsPrimitive>
+      <Defn val="1"/>
+    </DefaultPlacedInstIsPrimitive>
+    <DefaultDrawnInstIsPrimitive>
+      <Defn val="0"/>
+    </DefaultDrawnInstIsPrimitive>
+    <DefaultPartFieldMapping>
+      <Defn index="1" val="1ST PART FIELD"/>
+    </DefaultPartFieldMapping>
+    <DefaultPartFieldMapping>
+      <Defn index="2" val="2ND PART FIELD"/>
+    </DefaultPartFieldMapping>
+    <DefaultPartFieldMapping>
+      <Defn index="3" val="3RD PART FIELD"/>
+    </DefaultPartFieldMapping>
+    <DefaultPartFieldMapping>
+      <Defn index="4" val="4TH PART FIELD"/>
+    </DefaultPartFieldMapping>
+    <DefaultPartFieldMapping>
+      <Defn index="5" val="5TH PART FIELD"/>
+    </DefaultPartFieldMapping>
+    <DefaultPartFieldMapping>
+      <Defn index="6" val="6TH PART FIELD"/>
+    </DefaultPartFieldMapping>
+    <DefaultPartFieldMapping>
+      <Defn index="7" val="7TH PART FIELD"/>
+    </DefaultPartFieldMapping>
+    <DefaultPartFieldMapping>
+      <Defn index="8" val="PCB Footprint"/>
+    </DefaultPartFieldMapping>
+  </DefaultValues>
+
+  <Cache>
+    <Defn/>
+    <TitleBlockSymbol>
+      <Defn name="TitleBlock0" sourceLibName="C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB"/>
+      <SymbolDisplayProp>
+        <Defn locX="40" locY="60" name="Doc" rotation="0" textJustification="0"/>
+        <PropFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+        </PropFont>
+        <PropColor>
+          <Defn val="48"/>
+        </PropColor>
+        <PropDispType>
+          <Defn ValueIfValueExist="0" val="1"/>
+        </PropDispType>
+      </SymbolDisplayProp>
+      <SymbolDisplayProp>
+        <Defn locX="340" locY="60" name="RevCode" rotation="0" textJustification="0"/>
+        <PropFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+        </PropFont>
+        <PropColor>
+          <Defn val="48"/>
+        </PropColor>
+        <PropDispType>
+          <Defn ValueIfValueExist="0" val="1"/>
+        </PropDispType>
+      </SymbolDisplayProp>
+      <SymbolDisplayProp>
+        <Defn locX="40" locY="30" name="Title" rotation="0" textJustification="0"/>
+        <PropFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+        </PropFont>
+        <PropColor>
+          <Defn val="48"/>
+        </PropColor>
+        <PropDispType>
+          <Defn ValueIfValueExist="0" val="1"/>
+        </PropDispType>
+      </SymbolDisplayProp>
+      <SymbolDisplayProp>
+        <Defn locX="10" locY="60" name="Page Size" rotation="0" textJustification="0"/>
+        <PropFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+        </PropFont>
+        <PropColor>
+          <Defn val="48"/>
+        </PropColor>
+        <PropDispType>
+          <Defn ValueIfValueExist="0" val="1"/>
+        </PropDispType>
+      </SymbolDisplayProp>
+      <SymbolDisplayProp>
+        <Defn locX="250" locY="80" name="Page Number" rotation="0" textJustification="0"/>
+        <PropFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+        </PropFont>
+        <PropColor>
+          <Defn val="48"/>
+        </PropColor>
+        <PropDispType>
+          <Defn ValueIfValueExist="0" val="1"/>
+        </PropDispType>
+      </SymbolDisplayProp>
+      <SymbolDisplayProp>
+        <Defn locX="310" locY="80" name="Page Count" rotation="0" textJustification="0"/>
+        <PropFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+        </PropFont>
+        <PropColor>
+          <Defn val="48"/>
+        </PropColor>
+        <PropDispType>
+          <Defn ValueIfValueExist="0" val="1"/>
+        </PropDispType>
+      </SymbolDisplayProp>
+      <SymbolDisplayProp>
+        <Defn locX="52" locY="80" name="Page Modify Date" rotation="0" textJustification="0"/>
+        <PropFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+        </PropFont>
+        <PropColor>
+          <Defn val="48"/>
+        </PropColor>
+        <PropDispType>
+          <Defn ValueIfValueExist="0" val="1"/>
+        </PropDispType>
+      </SymbolDisplayProp>
+      <SymbolUserProp>
+        <Defn name="Doc" val=""/>
+      </SymbolUserProp>
+      <SymbolUserProp>
+        <Defn name="Page Count" val="1"/>
+      </SymbolUserProp>
+      <SymbolUserProp>
+        <Defn name="Page Create Date" val="    March  8, 1995"/>
+      </SymbolUserProp>
+      <SymbolUserProp>
+        <Defn name="Page Number" val="1"/>
+      </SymbolUserProp>
+      <SymbolUserProp>
+        <Defn name="Page Size" val="A"/>
+      </SymbolUserProp>
+      <SymbolUserProp>
+        <Defn name="RevCode" val="?"/>
+      </SymbolUserProp>
+      <SymbolUserProp>
+        <Defn name="Title" val=""/>
+      </SymbolUserProp>
+      <SymbolBBox>
+        <Defn x1="0" x2="360" y1="0" y2="90"/>
+      </SymbolBBox>
+      <CommentText>
+        <Defn locX="0" locY="20" name="Title" textJustification="0" x1="0" x2="18" y1="20" y2="30"/>
+        <TextFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+        </TextFont>
+      </CommentText>
+      <CommentText>
+        <Defn locX="0" locY="50" name="Size" textJustification="0" x1="0" x2="18" y1="50" y2="60"/>
+        <TextFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+        </TextFont>
+      </CommentText>
+      <CommentText>
+        <Defn locX="40" locY="50" name="Document Number" textJustification="0" x1="40" x2="120" y1="50" y2="60"/>
+        <TextFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+        </TextFont>
+      </CommentText>
+      <CommentText>
+        <Defn locX="330" locY="50" name="Rev" textJustification="0" x1="330" x2="348" y1="50" y2="60"/>
+        <TextFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+        </TextFont>
+      </CommentText>
+      <CommentText>
+        <Defn locX="0" locY="80" name="Date:" textJustification="0" x1="0" x2="24" y1="80" y2="90"/>
+        <TextFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+        </TextFont>
+      </CommentText>
+      <CommentText>
+        <Defn locX="200" locY="80" name="Sheet" textJustification="0" x1="200" x2="224" y1="80" y2="90"/>
+        <TextFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+        </TextFont>
+      </CommentText>
+      <Rect>
+        <Defn fillStyle="1" hatchStyle="0" lineStyle="0" lineWidth="0" x1="0" x2="360" y1="0" y2="20"/>
+      </Rect>
+      <Rect>
+        <Defn fillStyle="1" hatchStyle="0" lineStyle="0" lineWidth="0" x1="0" x2="360" y1="20" y2="50"/>
+      </Rect>
+      <Rect>
+        <Defn fillStyle="1" hatchStyle="0" lineStyle="0" lineWidth="0" x1="0" x2="30" y1="50" y2="80"/>
+      </Rect>
+      <Rect>
+        <Defn fillStyle="1" hatchStyle="0" lineStyle="0" lineWidth="0" x1="30" x2="330" y1="50" y2="80"/>
+      </Rect>
+      <Rect>
+        <Defn fillStyle="1" hatchStyle="0" lineStyle="0" lineWidth="0" x1="330" x2="360" y1="50" y2="80"/>
+      </Rect>
+      <Rect>
+        <Defn fillStyle="1" hatchStyle="0" lineStyle="0" lineWidth="0" x1="0" x2="200" y1="80" y2="90"/>
+      </Rect>
+      <Rect>
+        <Defn fillStyle="1" hatchStyle="0" lineStyle="0" lineWidth="0" x1="200" x2="360" y1="80" y2="90"/>
+      </Rect>
+      <CommentText>
+        <Defn locX="280" locY="80" name="of" textJustification="0" x1="280" x2="290" y1="80" y2="90"/>
+        <TextFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+        </TextFont>
+      </CommentText>
+    </TitleBlockSymbol>
+    <GlobalSymbol>
+      <Defn name="GND_SIGNAL" sourceLibName="C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB"/>
+      <SymbolBBox>
+        <Defn x1="0" x2="20" y1="0" y2="10"/>
+      </SymbolBBox>
+      <Line>
+        <Defn lineStyle="0" lineWidth="0" x1="0" x2="20" y1="0" y2="0"/>
+      </Line>
+      <Line>
+        <Defn lineStyle="0" lineWidth="0" x1="20" x2="10" y1="0" y2="10"/>
+      </Line>
+      <Line>
+        <Defn lineStyle="0" lineWidth="0" x1="10" x2="0" y1="10" y2="0"/>
+      </Line>
+      <SymbolPinScalar>
+        <Defn hotptX="10" hotptY="0" name="GND" position="0" startX="10" startY="0" type="7" visible="0"/>
+        <IsLong>
+          <Defn val="1"/>
+        </IsLong>
+        <IsClock>
+          <Defn val="0"/>
+        </IsClock>
+        <IsDot>
+          <Defn val="0"/>
+        </IsDot>
+        <IsLeftPointing>
+          <Defn val="0"/>
+        </IsLeftPointing>
+        <IsRightPointing>
+          <Defn val="0"/>
+        </IsRightPointing>
+        <IsNetStyle>
+          <Defn val="0"/>
+        </IsNetStyle>
+        <IsNoConnect>
+          <Defn val="0"/>
+        </IsNoConnect>
+        <IsGlobal>
+          <Defn val="1"/>
+        </IsGlobal>
+        <IsNumberVisible>
+          <Defn val="1"/>
+        </IsNumberVisible>
+      </SymbolPinScalar>
+    </GlobalSymbol>
+    <GlobalSymbol>
+      <Defn name="VCC_ARROW" sourceLibName="C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB"/>
+      <SymbolDisplayProp>
+        <Defn locX="0" locY="-10" name="Name" rotation="0" textJustification="0"/>
+        <PropFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+        </PropFont>
+        <PropColor>
+          <Defn val="48"/>
+        </PropColor>
+        <PropDispType>
+          <Defn ValueIfValueExist="0" val="1"/>
+        </PropDispType>
+      </SymbolDisplayProp>
+      <SymbolBBox>
+        <Defn x1="0" x2="20" y1="0" y2="10"/>
+      </SymbolBBox>
+      <Line>
+        <Defn lineStyle="0" lineWidth="0" x1="13" x2="7" y1="8" y2="8"/>
+      </Line>
+      <Line>
+        <Defn lineStyle="0" lineWidth="0" x1="10" x2="10" y1="8" y2="10"/>
+      </Line>
+      <Line>
+        <Defn lineStyle="0" lineWidth="0" x1="7" x2="10" y1="8" y2="0"/>
+      </Line>
+      <Line>
+        <Defn lineStyle="0" lineWidth="0" x1="10" x2="13" y1="0" y2="8"/>
+      </Line>
+      <SymbolPinScalar>
+        <Defn hotptX="10" hotptY="10" name="$PIN0" position="0" startX="10" startY="10" type="7" visible="0"/>
+        <IsLong>
+          <Defn val="1"/>
+        </IsLong>
+        <IsClock>
+          <Defn val="0"/>
+        </IsClock>
+        <IsDot>
+          <Defn val="0"/>
+        </IsDot>
+        <IsLeftPointing>
+          <Defn val="0"/>
+        </IsLeftPointing>
+        <IsRightPointing>
+          <Defn val="0"/>
+        </IsRightPointing>
+        <IsNetStyle>
+          <Defn val="0"/>
+        </IsNetStyle>
+        <IsNoConnect>
+          <Defn val="0"/>
+        </IsNoConnect>
+        <IsGlobal>
+          <Defn val="1"/>
+        </IsGlobal>
+        <IsNumberVisible>
+          <Defn val="1"/>
+        </IsNumberVisible>
+      </SymbolPinScalar>
+    </GlobalSymbol>
+    <Package>
+      <Defn alphabeticNumbering="2" isHomogeneous="1" name="CONN_HEADER_2_P_S" pcbFootprint="" pcbLib="" refdesPrefix="P" sourceLibName="C:\CADENCE\DP\SYMBOLS\CONNECTOR.OLB"/>
+      <LibPart>
+        <Defn CellName="CONN_HEADER_2_P_S"/>
+        <NormalView>
+          <Defn suffix=".Normal"/>
+          <SymbolDisplayProp>
+            <Defn locX="0" locY="-10" name="Part Reference" rotation="0" textJustification="0"/>
+            <PropFont>
+              <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+            </PropFont>
+            <PropColor>
+              <Defn val="48"/>
+            </PropColor>
+            <PropDispType>
+              <Defn ValueIfValueExist="0" val="1"/>
+            </PropDispType>
+          </SymbolDisplayProp>
+          <SymbolDisplayProp>
+            <Defn locX="0" locY="49" name="Value" rotation="0" textJustification="0"/>
+            <PropFont>
+              <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+            </PropFont>
+            <PropColor>
+              <Defn val="48"/>
+            </PropColor>
+            <PropDispType>
+              <Defn ValueIfValueExist="0" val="1"/>
+            </PropDispType>
+          </SymbolDisplayProp>
+          <SymbolUserProp>
+            <Defn name="CLASS" val="IO"/>
+          </SymbolUserProp>
+          <SymbolColor>
+            <Defn val="48"/>
+          </SymbolColor>
+          <SymbolBBox>
+            <Defn x1="0" x2="30" y1="0" y2="50"/>
+          </SymbolBBox>
+          <IsPinNumbersVisible>
+            <Defn val="1"/>
+          </IsPinNumbersVisible>
+          <IsPinNamesRotated>
+            <Defn val="1"/>
+          </IsPinNamesRotated>
+          <IsPinNamesVisible>
+            <Defn val="0"/>
+          </IsPinNamesVisible>
+          <ContentsLibName>
+            <Defn name=""/>
+          </ContentsLibName>
+          <ContentsViewName>
+            <Defn name=""/>
+          </ContentsViewName>
+          <ContentsViewType>
+            <Defn type="0"/>
+          </ContentsViewType>
+          <PartValue>
+            <Defn name=""/>
+          </PartValue>
+          <Reference>
+            <Defn name="P"/>
+          </Reference>
+          <Rect>
+            <Defn fillStyle="1" hatchStyle="0" lineStyle="0" lineWidth="0" x1="0" x2="30" y1="10" y2="40"/>
+          </Rect>
+          <Polyline>
+            <Defn lineStyle="0" lineWidth="0"/>
+            <PolylinePoint>
+              <Defn x="10" y="40"/>
+            </PolylinePoint>
+            <PolylinePoint>
+              <Defn x="10" y="40"/>
+            </PolylinePoint>
+            <PolylinePoint>
+              <Defn x="10" y="43"/>
+            </PolylinePoint>
+            <PolylinePoint>
+              <Defn x="20" y="43"/>
+            </PolylinePoint>
+            <PolylinePoint>
+              <Defn x="20" y="40"/>
+            </PolylinePoint>
+          </Polyline>
+          <Polyline>
+            <Defn lineStyle="0" lineWidth="0"/>
+            <PolylinePoint>
+              <Defn x="10" y="10"/>
+            </PolylinePoint>
+            <PolylinePoint>
+              <Defn x="10" y="10"/>
+            </PolylinePoint>
+            <PolylinePoint>
+              <Defn x="10" y="7"/>
+            </PolylinePoint>
+            <PolylinePoint>
+              <Defn x="20" y="7"/>
+            </PolylinePoint>
+            <PolylinePoint>
+              <Defn x="20" y="10"/>
+            </PolylinePoint>
+          </Polyline>
+          <SymbolPinScalar>
+            <Defn hotptX="40" hotptY="20" name="1" position="0" startX="30" startY="20" type="4" visible="1"/>
+            <IsLong>
+              <Defn val="1"/>
+            </IsLong>
+            <IsClock>
+              <Defn val="0"/>
+            </IsClock>
+            <IsDot>
+              <Defn val="0"/>
+            </IsDot>
+            <IsLeftPointing>
+              <Defn val="0"/>
+            </IsLeftPointing>
+            <IsRightPointing>
+              <Defn val="0"/>
+            </IsRightPointing>
+            <IsNetStyle>
+              <Defn val="0"/>
+            </IsNetStyle>
+            <IsNoConnect>
+              <Defn val="0"/>
+            </IsNoConnect>
+            <IsGlobal>
+              <Defn val="0"/>
+            </IsGlobal>
+            <IsNumberVisible>
+              <Defn val="1"/>
+            </IsNumberVisible>
+            <PinUserProp>
+              <Defn name="Order" val="0"/>
+            </PinUserProp>
+          </SymbolPinScalar>
+          <SymbolPinScalar>
+            <Defn hotptX="40" hotptY="30" name="2" position="1" startX="30" startY="30" type="4" visible="1"/>
+            <IsLong>
+              <Defn val="1"/>
+            </IsLong>
+            <IsClock>
+              <Defn val="0"/>
+            </IsClock>
+            <IsDot>
+              <Defn val="0"/>
+            </IsDot>
+            <IsLeftPointing>
+              <Defn val="0"/>
+            </IsLeftPointing>
+            <IsRightPointing>
+              <Defn val="0"/>
+            </IsRightPointing>
+            <IsNetStyle>
+              <Defn val="0"/>
+            </IsNetStyle>
+            <IsNoConnect>
+              <Defn val="0"/>
+            </IsNoConnect>
+            <IsGlobal>
+              <Defn val="0"/>
+            </IsGlobal>
+            <IsNumberVisible>
+              <Defn val="1"/>
+            </IsNumberVisible>
+            <PinUserProp>
+              <Defn name="Order" val="1"/>
+            </PinUserProp>
+          </SymbolPinScalar>
+        </NormalView>
+        <PhysicalPart>
+          <Defn/>
+          <PinNumber>
+            <Defn number="1" position="0"/>
+          </PinNumber>
+          <PinNumber>
+            <Defn number="2" position="1"/>
+          </PinNumber>
+        </PhysicalPart>
+      </LibPart>
+    </Package>
+    <Package>
+      <Defn alphabeticNumbering="2" isHomogeneous="1" name="CONN_HEADER_4_P_S" pcbFootprint="" pcbLib="" refdesPrefix="P" sourceLibName="C:\CADENCE\DP\SYMBOLS\CONNECTOR.OLB"/>
+      <LibPart>
+        <Defn CellName="CONN_HEADER_4_P_S"/>
+        <NormalView>
+          <Defn suffix=".Normal"/>
+          <SymbolDisplayProp>
+            <Defn locX="0" locY="-10" name="Part Reference" rotation="0" textJustification="0"/>
+            <PropFont>
+              <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+            </PropFont>
+            <PropColor>
+              <Defn val="48"/>
+            </PropColor>
+            <PropDispType>
+              <Defn ValueIfValueExist="0" val="1"/>
+            </PropDispType>
+          </SymbolDisplayProp>
+          <SymbolDisplayProp>
+            <Defn locX="0" locY="70" name="Value" rotation="0" textJustification="0"/>
+            <PropFont>
+              <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+            </PropFont>
+            <PropColor>
+              <Defn val="48"/>
+            </PropColor>
+            <PropDispType>
+              <Defn ValueIfValueExist="0" val="1"/>
+            </PropDispType>
+          </SymbolDisplayProp>
+          <SymbolUserProp>
+            <Defn name="CLASS" val="IO"/>
+          </SymbolUserProp>
+          <SymbolColor>
+            <Defn val="48"/>
+          </SymbolColor>
+          <SymbolBBox>
+            <Defn x1="0" x2="30" y1="0" y2="70"/>
+          </SymbolBBox>
+          <IsPinNumbersVisible>
+            <Defn val="1"/>
+          </IsPinNumbersVisible>
+          <IsPinNamesRotated>
+            <Defn val="1"/>
+          </IsPinNamesRotated>
+          <IsPinNamesVisible>
+            <Defn val="0"/>
+          </IsPinNamesVisible>
+          <ContentsLibName>
+            <Defn name=""/>
+          </ContentsLibName>
+          <ContentsViewName>
+            <Defn name=""/>
+          </ContentsViewName>
+          <ContentsViewType>
+            <Defn type="0"/>
+          </ContentsViewType>
+          <PartValue>
+            <Defn name=""/>
+          </PartValue>
+          <Reference>
+            <Defn name="P"/>
+          </Reference>
+          <Rect>
+            <Defn fillStyle="1" hatchStyle="0" lineStyle="0" lineWidth="0" x1="0" x2="30" y1="10" y2="60"/>
+          </Rect>
+          <Polyline>
+            <Defn lineStyle="0" lineWidth="0"/>
+            <PolylinePoint>
+              <Defn x="10" y="10"/>
+            </PolylinePoint>
+            <PolylinePoint>
+              <Defn x="10" y="10"/>
+            </PolylinePoint>
+            <PolylinePoint>
+              <Defn x="10" y="7"/>
+            </PolylinePoint>
+            <PolylinePoint>
+              <Defn x="20" y="7"/>
+            </PolylinePoint>
+            <PolylinePoint>
+              <Defn x="20" y="10"/>
+            </PolylinePoint>
+          </Polyline>
+          <Polyline>
+            <Defn lineStyle="0" lineWidth="0"/>
+            <PolylinePoint>
+              <Defn x="10" y="60"/>
+            </PolylinePoint>
+            <PolylinePoint>
+              <Defn x="10" y="60"/>
+            </PolylinePoint>
+            <PolylinePoint>
+              <Defn x="10" y="63"/>
+            </PolylinePoint>
+            <PolylinePoint>
+              <Defn x="20" y="63"/>
+            </PolylinePoint>
+            <PolylinePoint>
+              <Defn x="20" y="60"/>
+            </PolylinePoint>
+          </Polyline>
+          <SymbolPinScalar>
+            <Defn hotptX="40" hotptY="20" name="1" position="0" startX="30" startY="20" type="4" visible="1"/>
+            <IsLong>
+              <Defn val="1"/>
+            </IsLong>
+            <IsClock>
+              <Defn val="0"/>
+            </IsClock>
+            <IsDot>
+              <Defn val="0"/>
+            </IsDot>
+            <IsLeftPointing>
+              <Defn val="0"/>
+            </IsLeftPointing>
+            <IsRightPointing>
+              <Defn val="0"/>
+            </IsRightPointing>
+            <IsNetStyle>
+              <Defn val="0"/>
+            </IsNetStyle>
+            <IsNoConnect>
+              <Defn val="0"/>
+            </IsNoConnect>
+            <IsGlobal>
+              <Defn val="0"/>
+            </IsGlobal>
+            <IsNumberVisible>
+              <Defn val="1"/>
+            </IsNumberVisible>
+          </SymbolPinScalar>
+          <SymbolPinScalar>
+            <Defn hotptX="40" hotptY="30" name="2" position="1" startX="30" startY="30" type="4" visible="1"/>
+            <IsLong>
+              <Defn val="1"/>
+            </IsLong>
+            <IsClock>
+              <Defn val="0"/>
+            </IsClock>
+            <IsDot>
+              <Defn val="0"/>
+            </IsDot>
+            <IsLeftPointing>
+              <Defn val="0"/>
+            </IsLeftPointing>
+            <IsRightPointing>
+              <Defn val="0"/>
+            </IsRightPointing>
+            <IsNetStyle>
+              <Defn val="0"/>
+            </IsNetStyle>
+            <IsNoConnect>
+              <Defn val="0"/>
+            </IsNoConnect>
+            <IsGlobal>
+              <Defn val="0"/>
+            </IsGlobal>
+            <IsNumberVisible>
+              <Defn val="1"/>
+            </IsNumberVisible>
+          </SymbolPinScalar>
+          <SymbolPinScalar>
+            <Defn hotptX="40" hotptY="40" name="3" position="2" startX="30" startY="40" type="4" visible="1"/>
+            <IsLong>
+              <Defn val="1"/>
+            </IsLong>
+            <IsClock>
+              <Defn val="0"/>
+            </IsClock>
+            <IsDot>
+              <Defn val="0"/>
+            </IsDot>
+            <IsLeftPointing>
+              <Defn val="0"/>
+            </IsLeftPointing>
+            <IsRightPointing>
+              <Defn val="0"/>
+            </IsRightPointing>
+            <IsNetStyle>
+              <Defn val="0"/>
+            </IsNetStyle>
+            <IsNoConnect>
+              <Defn val="0"/>
+            </IsNoConnect>
+            <IsGlobal>
+              <Defn val="0"/>
+            </IsGlobal>
+            <IsNumberVisible>
+              <Defn val="1"/>
+            </IsNumberVisible>
+          </SymbolPinScalar>
+          <SymbolPinScalar>
+            <Defn hotptX="40" hotptY="50" name="4" position="3" startX="30" startY="50" type="4" visible="1"/>
+            <IsLong>
+              <Defn val="1"/>
+            </IsLong>
+            <IsClock>
+              <Defn val="0"/>
+            </IsClock>
+            <IsDot>
+              <Defn val="0"/>
+            </IsDot>
+            <IsLeftPointing>
+              <Defn val="0"/>
+            </IsLeftPointing>
+            <IsRightPointing>
+              <Defn val="0"/>
+            </IsRightPointing>
+            <IsNetStyle>
+              <Defn val="0"/>
+            </IsNetStyle>
+            <IsNoConnect>
+              <Defn val="0"/>
+            </IsNoConnect>
+            <IsGlobal>
+              <Defn val="0"/>
+            </IsGlobal>
+            <IsNumberVisible>
+              <Defn val="1"/>
+            </IsNumberVisible>
+          </SymbolPinScalar>
+        </NormalView>
+        <PhysicalPart>
+          <Defn/>
+          <PinNumber>
+            <Defn number="1" position="0"/>
+          </PinNumber>
+          <PinNumber>
+            <Defn number="2" position="1"/>
+          </PinNumber>
+          <PinNumber>
+            <Defn number="3" position="2"/>
+          </PinNumber>
+          <PinNumber>
+            <Defn number="4" position="3"/>
+          </PinNumber>
+        </PhysicalPart>
+      </LibPart>
+    </Package>
+    <Package>
+      <Defn alphabeticNumbering="2" isHomogeneous="1" name="R" pcbFootprint="AXRC05" pcbLib="" refdesPrefix="R" sourceLibName="C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB"/>
+      <LibPart>
+        <Defn CellName="R"/>
+        <NormalView>
+          <Defn suffix=".Normal"/>
+          <SymbolDisplayProp>
+            <Defn locX="5" locY="-10" name="Part Reference" rotation="0" textJustification="0"/>
+            <PropFont>
+              <Defn charset="1" escapement="0" height="-10" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+            </PropFont>
+            <PropColor>
+              <Defn val="48"/>
+            </PropColor>
+            <PropDispType>
+              <Defn ValueIfValueExist="0" val="1"/>
+            </PropDispType>
+          </SymbolDisplayProp>
+          <SymbolDisplayProp>
+            <Defn locX="5" locY="15" name="Value" rotation="0" textJustification="0"/>
+            <PropFont>
+              <Defn charset="1" escapement="0" height="-10" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+            </PropFont>
+            <PropColor>
+              <Defn val="48"/>
+            </PropColor>
+            <PropDispType>
+              <Defn ValueIfValueExist="0" val="1"/>
+            </PropDispType>
+          </SymbolDisplayProp>
+          <SymbolUserProp>
+            <Defn name="DIST" val="FLAT"/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="MAX_TEMP" val="RTMAX"/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="POWER" val="RMAX"/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="PSpice Model Type" val="0011"/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="PSpiceTemplate" val="R^@REFDES %1 %2 ?TOLERANCE|R^@REFDES| @VALUE TC=@TC1,@TC2 ?TOLERANCE|\n.model R^@REFDES RES R=1 DEV=@TOLERANCE% TC1=@TC1 TC2=@TC2|"/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="SLOPE" val="RSMAX"/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="TC1" val="0"/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="TC2" val="0"/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="TOLERANCE" val=""/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="VOLTAGE" val="RVMAX"/>
+          </SymbolUserProp>
+          <SymbolColor>
+            <Defn val="48"/>
+          </SymbolColor>
+          <SymbolBBox>
+            <Defn x1="0" x2="20" y1="0" y2="20"/>
+          </SymbolBBox>
+          <IsPinNumbersVisible>
+            <Defn val="0"/>
+          </IsPinNumbersVisible>
+          <IsPinNamesRotated>
+            <Defn val="0"/>
+          </IsPinNamesRotated>
+          <IsPinNamesVisible>
+            <Defn val="0"/>
+          </IsPinNamesVisible>
+          <ContentsLibName>
+            <Defn name=""/>
+          </ContentsLibName>
+          <ContentsViewName>
+            <Defn name=""/>
+          </ContentsViewName>
+          <ContentsViewType>
+            <Defn type="0"/>
+          </ContentsViewType>
+          <PartValue>
+            <Defn name="1k"/>
+          </PartValue>
+          <Reference>
+            <Defn name="R"/>
+          </Reference>
+          <Line>
+            <Defn lineStyle="0" lineWidth="0" x1="1" x2="3" y1="10" y2="6"/>
+          </Line>
+          <Line>
+            <Defn lineStyle="0" lineWidth="0" x1="3" x2="6" y1="6" y2="14"/>
+          </Line>
+          <Line>
+            <Defn lineStyle="0" lineWidth="0" x1="6" x2="9" y1="14" y2="6"/>
+          </Line>
+          <Line>
+            <Defn lineStyle="0" lineWidth="0" x1="9" x2="12" y1="6" y2="14"/>
+          </Line>
+          <Line>
+            <Defn lineStyle="0" lineWidth="0" x1="12" x2="15" y1="14" y2="6"/>
+          </Line>
+          <Line>
+            <Defn lineStyle="0" lineWidth="0" x1="15" x2="18" y1="6" y2="14"/>
+          </Line>
+          <Line>
+            <Defn lineStyle="0" lineWidth="0" x1="18" x2="20" y1="14" y2="10"/>
+          </Line>
+          <Line>
+            <Defn lineStyle="0" lineWidth="0" x1="0" x2="1" y1="10" y2="10"/>
+          </Line>
+          <SymbolPinScalar>
+            <Defn hotptX="-10" hotptY="10" name="1" position="1" startX="0" startY="10" type="4" visible="1"/>
+            <IsLong>
+              <Defn val="1"/>
+            </IsLong>
+            <IsClock>
+              <Defn val="0"/>
+            </IsClock>
+            <IsDot>
+              <Defn val="0"/>
+            </IsDot>
+            <IsLeftPointing>
+              <Defn val="0"/>
+            </IsLeftPointing>
+            <IsRightPointing>
+              <Defn val="0"/>
+            </IsRightPointing>
+            <IsNetStyle>
+              <Defn val="0"/>
+            </IsNetStyle>
+            <IsNoConnect>
+              <Defn val="0"/>
+            </IsNoConnect>
+            <IsGlobal>
+              <Defn val="0"/>
+            </IsGlobal>
+            <IsNumberVisible>
+              <Defn val="1"/>
+            </IsNumberVisible>
+          </SymbolPinScalar>
+          <SymbolPinScalar>
+            <Defn hotptX="30" hotptY="10" name="2" position="0" startX="20" startY="10" type="4" visible="1"/>
+            <IsLong>
+              <Defn val="1"/>
+            </IsLong>
+            <IsClock>
+              <Defn val="0"/>
+            </IsClock>
+            <IsDot>
+              <Defn val="0"/>
+            </IsDot>
+            <IsLeftPointing>
+              <Defn val="0"/>
+            </IsLeftPointing>
+            <IsRightPointing>
+              <Defn val="0"/>
+            </IsRightPointing>
+            <IsNetStyle>
+              <Defn val="0"/>
+            </IsNetStyle>
+            <IsNoConnect>
+              <Defn val="0"/>
+            </IsNoConnect>
+            <IsGlobal>
+              <Defn val="0"/>
+            </IsGlobal>
+            <IsNumberVisible>
+              <Defn val="1"/>
+            </IsNumberVisible>
+          </SymbolPinScalar>
+        </NormalView>
+        <PhysicalPart>
+          <Defn/>
+          <PinNumber>
+            <Defn number="2" position="0"/>
+          </PinNumber>
+          <PinNumber>
+            <Defn number="1" position="1"/>
+          </PinNumber>
+        </PhysicalPart>
+      </LibPart>
+    </Package>
+    <Package>
+      <Defn alphabeticNumbering="2" isHomogeneous="1" name="LM6171AIN" pcbFootprint="DIP1008W300L450" pcbLib="" refdesPrefix="U" sourceLibName="C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\PSPICE\NAT_SEMI.OLB"/>
+      <LibPart>
+        <Defn CellName="LM6171AIN"/>
+        <NormalView>
+          <Defn suffix=".Normal"/>
+          <SymbolDisplayProp>
+            <Defn locX="-10" locY="-10" name="Part Reference" rotation="0" textJustification="0"/>
+            <PropFont>
+              <Defn charset="1" escapement="0" height="-10" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+            </PropFont>
+            <PropColor>
+              <Defn val="48"/>
+            </PropColor>
+            <PropDispType>
+              <Defn ValueIfValueExist="0" val="1"/>
+            </PropDispType>
+          </SymbolDisplayProp>
+          <SymbolDisplayProp>
+            <Defn locX="-10" locY="60" name="Value" rotation="0" textJustification="0"/>
+            <PropFont>
+              <Defn charset="1" escapement="0" height="-10" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+            </PropFont>
+            <PropColor>
+              <Defn val="48"/>
+            </PropColor>
+            <PropDispType>
+              <Defn ValueIfValueExist="0" val="1"/>
+            </PropDispType>
+          </SymbolDisplayProp>
+          <SymbolUserProp>
+            <Defn name="PSpiceTemplate" val="X^@REFDES %+ %- %V+ %V- %OUT @MODEL"/>
+          </SymbolUserProp>
+          <SymbolColor>
+            <Defn val="48"/>
+          </SymbolColor>
+          <SymbolBBox>
+            <Defn x1="0" x2="60" y1="0" y2="60"/>
+          </SymbolBBox>
+          <IsPinNumbersVisible>
+            <Defn val="1"/>
+          </IsPinNumbersVisible>
+          <IsPinNamesRotated>
+            <Defn val="1"/>
+          </IsPinNamesRotated>
+          <IsPinNamesVisible>
+            <Defn val="1"/>
+          </IsPinNamesVisible>
+          <ContentsLibName>
+            <Defn name=""/>
+          </ContentsLibName>
+          <ContentsViewName>
+            <Defn name="LM6171A/NS"/>
+          </ContentsViewName>
+          <ContentsViewType>
+            <Defn type="5"/>
+          </ContentsViewType>
+          <PartValue>
+            <Defn name="LM6171AIN"/>
+          </PartValue>
+          <Reference>
+            <Defn name="U"/>
+          </Reference>
+          <Line>
+            <Defn lineStyle="0" lineWidth="0" x1="0" x2="60" y1="60" y2="30"/>
+          </Line>
+          <Line>
+            <Defn lineStyle="0" lineWidth="0" x1="60" x2="0" y1="30" y2="0"/>
+          </Line>
+          <Line>
+            <Defn lineStyle="0" lineWidth="0" x1="30" x2="30" y1="10" y2="15"/>
+          </Line>
+          <Line>
+            <Defn lineStyle="0" lineWidth="0" x1="30" x2="30" y1="50" y2="45"/>
+          </Line>
+          <Line>
+            <Defn lineStyle="0" lineWidth="0" x1="0" x2="0" y1="0" y2="60"/>
+          </Line>
+          <Line>
+            <Defn lineStyle="0" lineWidth="0" x1="30" x2="30" y1="50" y2="60"/>
+          </Line>
+          <Line>
+            <Defn lineStyle="0" lineWidth="0" x1="30" x2="30" y1="10" y2="0"/>
+          </Line>
+          <SymbolPinScalar>
+            <Defn hotptX="-10" hotptY="50" name="+" position="1" startX="0" startY="50" type="0" visible="1"/>
+            <IsLong>
+              <Defn val="1"/>
+            </IsLong>
+            <IsClock>
+              <Defn val="0"/>
+            </IsClock>
+            <IsDot>
+              <Defn val="0"/>
+            </IsDot>
+            <IsLeftPointing>
+              <Defn val="0"/>
+            </IsLeftPointing>
+            <IsRightPointing>
+              <Defn val="0"/>
+            </IsRightPointing>
+            <IsNetStyle>
+              <Defn val="0"/>
+            </IsNetStyle>
+            <IsNoConnect>
+              <Defn val="0"/>
+            </IsNoConnect>
+            <IsGlobal>
+              <Defn val="0"/>
+            </IsGlobal>
+            <IsNumberVisible>
+              <Defn val="1"/>
+            </IsNumberVisible>
+            <PinUserProp>
+              <Defn name="FLOAT" val="UniqueNet"/>
+            </PinUserProp>
+          </SymbolPinScalar>
+          <SymbolPinScalar>
+            <Defn hotptX="-10" hotptY="10" name="-" position="0" startX="0" startY="10" type="0" visible="1"/>
+            <IsLong>
+              <Defn val="1"/>
+            </IsLong>
+            <IsClock>
+              <Defn val="0"/>
+            </IsClock>
+            <IsDot>
+              <Defn val="0"/>
+            </IsDot>
+            <IsLeftPointing>
+              <Defn val="0"/>
+            </IsLeftPointing>
+            <IsRightPointing>
+              <Defn val="0"/>
+            </IsRightPointing>
+            <IsNetStyle>
+              <Defn val="0"/>
+            </IsNetStyle>
+            <IsNoConnect>
+              <Defn val="0"/>
+            </IsNoConnect>
+            <IsGlobal>
+              <Defn val="0"/>
+            </IsGlobal>
+            <IsNumberVisible>
+              <Defn val="1"/>
+            </IsNumberVisible>
+            <PinUserProp>
+              <Defn name="FLOAT" val="UniqueNet"/>
+            </PinUserProp>
+          </SymbolPinScalar>
+          <SymbolPinScalar>
+            <Defn hotptX="70" hotptY="30" name="OUT" position="3" startX="60" startY="30" type="2" visible="1"/>
+            <IsLong>
+              <Defn val="1"/>
+            </IsLong>
+            <IsClock>
+              <Defn val="0"/>
+            </IsClock>
+            <IsDot>
+              <Defn val="0"/>
+            </IsDot>
+            <IsLeftPointing>
+              <Defn val="0"/>
+            </IsLeftPointing>
+            <IsRightPointing>
+              <Defn val="0"/>
+            </IsRightPointing>
+            <IsNetStyle>
+              <Defn val="0"/>
+            </IsNetStyle>
+            <IsNoConnect>
+              <Defn val="0"/>
+            </IsNoConnect>
+            <IsGlobal>
+              <Defn val="0"/>
+            </IsGlobal>
+            <IsNumberVisible>
+              <Defn val="1"/>
+            </IsNumberVisible>
+            <PinUserProp>
+              <Defn name="FLOAT" val="UniqueNet"/>
+            </PinUserProp>
+          </SymbolPinScalar>
+          <SymbolPinScalar>
+            <Defn hotptX="30" hotptY="0" name="V+" position="4" startX="30" startY="0" type="4" visible="1"/>
+            <IsLong>
+              <Defn val="1"/>
+            </IsLong>
+            <IsClock>
+              <Defn val="0"/>
+            </IsClock>
+            <IsDot>
+              <Defn val="0"/>
+            </IsDot>
+            <IsLeftPointing>
+              <Defn val="0"/>
+            </IsLeftPointing>
+            <IsRightPointing>
+              <Defn val="0"/>
+            </IsRightPointing>
+            <IsNetStyle>
+              <Defn val="0"/>
+            </IsNetStyle>
+            <IsNoConnect>
+              <Defn val="0"/>
+            </IsNoConnect>
+            <IsGlobal>
+              <Defn val="0"/>
+            </IsGlobal>
+            <IsNumberVisible>
+              <Defn val="1"/>
+            </IsNumberVisible>
+            <PinUserProp>
+              <Defn name="FLOAT" val="UniqueNet"/>
+            </PinUserProp>
+          </SymbolPinScalar>
+          <SymbolPinScalar>
+            <Defn hotptX="30" hotptY="60" name="V-" position="2" startX="30" startY="60" type="4" visible="1"/>
+            <IsLong>
+              <Defn val="1"/>
+            </IsLong>
+            <IsClock>
+              <Defn val="0"/>
+            </IsClock>
+            <IsDot>
+              <Defn val="0"/>
+            </IsDot>
+            <IsLeftPointing>
+              <Defn val="0"/>
+            </IsLeftPointing>
+            <IsRightPointing>
+              <Defn val="0"/>
+            </IsRightPointing>
+            <IsNetStyle>
+              <Defn val="0"/>
+            </IsNetStyle>
+            <IsNoConnect>
+              <Defn val="0"/>
+            </IsNoConnect>
+            <IsGlobal>
+              <Defn val="0"/>
+            </IsGlobal>
+            <IsNumberVisible>
+              <Defn val="1"/>
+            </IsNumberVisible>
+            <PinUserProp>
+              <Defn name="FLOAT" val="UniqueNet"/>
+            </PinUserProp>
+          </SymbolPinScalar>
+        </NormalView>
+        <PhysicalPart>
+          <Defn/>
+          <PinNumber>
+            <Defn number="2" position="0"/>
+          </PinNumber>
+          <PinNumber>
+            <Defn number="3" position="1"/>
+          </PinNumber>
+          <PinNumber>
+            <Defn number="4" position="2"/>
+          </PinNumber>
+          <PinNumber>
+            <Defn number="6" position="3"/>
+          </PinNumber>
+          <PinNumber>
+            <Defn number="7" position="4"/>
+          </PinNumber>
+        </PhysicalPart>
+      </LibPart>
+    </Package>
+    <Package>
+      <Defn alphabeticNumbering="2" isHomogeneous="1" name="C" pcbFootprint="cap196" pcbLib="" refdesPrefix="C" sourceLibName="C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB"/>
+      <LibPart>
+        <Defn CellName="C"/>
+        <NormalView>
+          <Defn suffix=".Normal"/>
+          <SymbolDisplayProp>
+            <Defn locX="5" locY="-10" name="Part Reference" rotation="0" textJustification="0"/>
+            <PropFont>
+              <Defn charset="1" escapement="0" height="-10" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+            </PropFont>
+            <PropColor>
+              <Defn val="48"/>
+            </PropColor>
+            <PropDispType>
+              <Defn ValueIfValueExist="0" val="1"/>
+            </PropDispType>
+          </SymbolDisplayProp>
+          <SymbolDisplayProp>
+            <Defn locX="5" locY="15" name="Value" rotation="0" textJustification="0"/>
+            <PropFont>
+              <Defn charset="1" escapement="0" height="-10" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+            </PropFont>
+            <PropColor>
+              <Defn val="48"/>
+            </PropColor>
+            <PropDispType>
+              <Defn ValueIfValueExist="0" val="1"/>
+            </PropDispType>
+          </SymbolDisplayProp>
+          <SymbolUserProp>
+            <Defn name="CURRENT" val="CIMAX"/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="DIST" val="FLAT"/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="IC" val=""/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="KNEE" val="CBMAX"/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="MAX_TEMP" val="CTMAX"/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="PSpice Model Type" val="0011"/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="PSpiceTemplate" val="C^@REFDES %1 %2 ?TOLERANCE|C^@REFDES| @VALUE ?IC/IC=@IC/ TC=@TC1,@TC2 ?TOLERANCE|\n.model C^@REFDES CAP C=1 DEV=@TOLERANCE% TC1=@TC1 TC2=@TC2 VC1=@VC1 VC2=@VC2|"/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="SLOPE" val="CSMAX"/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="TC1" val="0"/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="TC2" val="0"/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="TOLERANCE" val=""/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="VC1" val="0"/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="VC2" val="0"/>
+          </SymbolUserProp>
+          <SymbolUserProp>
+            <Defn name="VOLTAGE" val="CMAX"/>
+          </SymbolUserProp>
+          <SymbolColor>
+            <Defn val="48"/>
+          </SymbolColor>
+          <SymbolBBox>
+            <Defn x1="0" x2="10" y1="0" y2="20"/>
+          </SymbolBBox>
+          <IsPinNumbersVisible>
+            <Defn val="0"/>
+          </IsPinNumbersVisible>
+          <IsPinNamesRotated>
+            <Defn val="0"/>
+          </IsPinNamesRotated>
+          <IsPinNamesVisible>
+            <Defn val="0"/>
+          </IsPinNamesVisible>
+          <ContentsLibName>
+            <Defn name=""/>
+          </ContentsLibName>
+          <ContentsViewName>
+            <Defn name=""/>
+          </ContentsViewName>
+          <ContentsViewType>
+            <Defn type="0"/>
+          </ContentsViewType>
+          <PartValue>
+            <Defn name="1n"/>
+          </PartValue>
+          <Reference>
+            <Defn name="C"/>
+          </Reference>
+          <Line>
+            <Defn lineStyle="0" lineWidth="0" x1="3" x2="3" y1="5" y2="15"/>
+          </Line>
+          <Line>
+            <Defn lineStyle="0" lineWidth="0" x1="7" x2="7" y1="5" y2="15"/>
+          </Line>
+          <Line>
+            <Defn lineStyle="0" lineWidth="0" x1="7" x2="10" y1="10" y2="10"/>
+          </Line>
+          <Line>
+            <Defn lineStyle="0" lineWidth="0" x1="0" x2="3" y1="10" y2="10"/>
+          </Line>
+          <SymbolPinScalar>
+            <Defn hotptX="-10" hotptY="10" name="1" position="0" startX="0" startY="10" type="4" visible="1"/>
+            <IsLong>
+              <Defn val="1"/>
+            </IsLong>
+            <IsClock>
+              <Defn val="0"/>
+            </IsClock>
+            <IsDot>
+              <Defn val="0"/>
+            </IsDot>
+            <IsLeftPointing>
+              <Defn val="0"/>
+            </IsLeftPointing>
+            <IsRightPointing>
+              <Defn val="0"/>
+            </IsRightPointing>
+            <IsNetStyle>
+              <Defn val="0"/>
+            </IsNetStyle>
+            <IsNoConnect>
+              <Defn val="0"/>
+            </IsNoConnect>
+            <IsGlobal>
+              <Defn val="0"/>
+            </IsGlobal>
+            <IsNumberVisible>
+              <Defn val="1"/>
+            </IsNumberVisible>
+          </SymbolPinScalar>
+          <SymbolPinScalar>
+            <Defn hotptX="20" hotptY="10" name="2" position="1" startX="10" startY="10" type="4" visible="1"/>
+            <IsLong>
+              <Defn val="1"/>
+            </IsLong>
+            <IsClock>
+              <Defn val="0"/>
+            </IsClock>
+            <IsDot>
+              <Defn val="0"/>
+            </IsDot>
+            <IsLeftPointing>
+              <Defn val="0"/>
+            </IsLeftPointing>
+            <IsRightPointing>
+              <Defn val="0"/>
+            </IsRightPointing>
+            <IsNetStyle>
+              <Defn val="0"/>
+            </IsNetStyle>
+            <IsNoConnect>
+              <Defn val="0"/>
+            </IsNoConnect>
+            <IsGlobal>
+              <Defn val="0"/>
+            </IsGlobal>
+            <IsNumberVisible>
+              <Defn val="1"/>
+            </IsNumberVisible>
+          </SymbolPinScalar>
+        </NormalView>
+        <PhysicalPart>
+          <Defn/>
+          <PinNumber>
+            <Defn number="1" position="0"/>
+          </PinNumber>
+          <PinNumber>
+            <Defn number="2" position="1"/>
+          </PinNumber>
+        </PhysicalPart>
+      </LibPart>
+    </Package>
+  </Cache>
+
+  <Schematic>
+    <Defn name="SCHEMATIC1"/>
+    <MaxDbId>
+      <Defn val="882"/>
+    </MaxDbId>
+    <Page>
+      <Defn name="PAGE1"/>
+      <TitleblockDisplayed>
+        <Defn val="1"/>
+      </TitleblockDisplayed>
+      <BorderDisplayed>
+        <Defn val="1"/>
+      </BorderDisplayed>
+      <GridRefDisplayed>
+        <Defn val="1"/>
+      </GridRefDisplayed>
+      <PageSizeInfo>
+        <Defn IsMetric="1" PinToPin="2540" height="210000" width="297000"/>
+      </PageSizeInfo>
+      <PageSize>
+        <Defn val="A4"/>
+      </PageSize>
+      <OuterBorderMagin>
+        <Defn x="0" y="0"/>
+      </OuterBorderMagin>
+      <OuterLineStyle>
+        <Defn val="0"/>
+      </OuterLineStyle>
+      <OuterLineWidth>
+        <Defn val="0"/>
+      </OuterLineWidth>
+      <OuterBorderIsVisible>
+        <Defn val="1"/>
+      </OuterBorderIsVisible>
+      <InnerBorderMargin>
+        <Defn x="0" y="0"/>
+      </InnerBorderMargin>
+      <InnerLineStyle>
+        <Defn val="0"/>
+      </InnerLineStyle>
+      <InnerLineWidth>
+        <Defn val="0"/>
+      </InnerLineWidth>
+      <InnerLineVisible>
+        <Defn val="0"/>
+      </InnerLineVisible>
+      <Color>
+        <Defn val="48"/>
+      </Color>
+      <Font>
+        <Defn charset="0" escapement="0" height="8" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+      </Font>
+      <LabelColor>
+        <Defn val="48"/>
+      </LabelColor>
+      <HorizontalCount>
+        <Defn count="5"/>
+      </HorizontalCount>
+      <HorizontalWidth>
+        <Defn val="10"/>
+      </HorizontalWidth>
+      <HorizontalChar>
+        <Defn val="0"/>
+      </HorizontalChar>
+      <HorizontalVisible>
+        <Defn val="0"/>
+      </HorizontalVisible>
+      <HorizontalAscending>
+        <Defn val="0"/>
+      </HorizontalAscending>
+      <HorizontalStyle>
+        <Defn val="0"/>
+      </HorizontalStyle>
+      <HorizontalSeparatorWidth>
+        <Defn val="0"/>
+      </HorizontalSeparatorWidth>
+      <VerticalCount>
+        <Defn count="4"/>
+      </VerticalCount>
+      <VerticalWidth>
+        <Defn val="10"/>
+      </VerticalWidth>
+      <VerticalChar>
+        <Defn val="1"/>
+      </VerticalChar>
+      <VerticalVisible>
+        <Defn val="0"/>
+      </VerticalVisible>
+      <VerticalAscending>
+        <Defn val="0"/>
+      </VerticalAscending>
+      <VerticalStyle>
+        <Defn val="0"/>
+      </VerticalStyle>
+      <VerticalSeparatorWidth>
+        <Defn val="0"/>
+      </VerticalSeparatorWidth>
+      <PageDateTime>
+        <Defn createDate="Thursday, June 26, 2025" createTime="12:58:22" modifyDate="Thursday, June 26, 2025" modifyTime="13:22:28"/>
+      </PageDateTime>
+      <NetScalar>
+        <Defn name=""/>
+        <WireScalar>
+          <Defn dbId="262" endX="570" endY="240" name="" startX="570" startY="230"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="570" x2="570" y1="230" y2="240"/>
+          </WireBBox>
+        </WireScalar>
+        <WireScalar>
+          <Defn dbId="311" endX="590" endY="240" name="" startX="590" startY="250"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="590" x2="590" y1="240" y2="250"/>
+          </WireBBox>
+        </WireScalar>
+        <WireScalar>
+          <Defn dbId="315" endX="570" endY="240" name="" startX="590" startY="240"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="570" x2="590" y1="240" y2="240"/>
+          </WireBBox>
+          <Junction>
+            <Defn locX="570" locY="240"/>
+          </Junction>
+        </WireScalar>
+        <WireScalar>
+          <Defn dbId="339" endX="570" endY="350" name="" startX="570" startY="240"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="570" x2="570" y1="240" y2="350"/>
+          </WireBBox>
+        </WireScalar>
+      </NetScalar>
+      <NetScalar>
+        <Defn name=""/>
+        <WireScalar>
+          <Defn dbId="64" endX="570" endY="460" name="" startX="570" startY="410"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="570" x2="570" y1="410" y2="460"/>
+          </WireBBox>
+        </WireScalar>
+        <WireScalar>
+          <Defn dbId="251" endX="740" endY="390" name="" startX="740" startY="460"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="740" x2="740" y1="390" y2="460"/>
+          </WireBBox>
+        </WireScalar>
+        <WireScalar>
+          <Defn dbId="256" endX="760" endY="390" name="" startX="740" startY="390"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="740" x2="760" y1="390" y2="390"/>
+          </WireBBox>
+        </WireScalar>
+        <WireScalar>
+          <Defn dbId="519" endX="350" endY="340" name="" startX="330" startY="340"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="330" x2="350" y1="340" y2="340"/>
+          </WireBBox>
+        </WireScalar>
+        <WireScalar>
+          <Defn dbId="521" endX="350" endY="370" name="" startX="350" startY="340"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="350" x2="350" y1="340" y2="370"/>
+          </WireBBox>
+        </WireScalar>
+        <WireScalar>
+          <Defn dbId="529" endX="350" endY="370" name="" startX="330" startY="370"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="330" x2="350" y1="370" y2="370"/>
+          </WireBBox>
+          <Junction>
+            <Defn locX="350" locY="370"/>
+          </Junction>
+        </WireScalar>
+        <WireScalar>
+          <Defn dbId="533" endX="350" endY="410" name="" startX="350" startY="370"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="350" x2="350" y1="370" y2="410"/>
+          </WireBBox>
+        </WireScalar>
+      </NetScalar>
+      <NetScalar>
+        <Defn name=""/>
+        <WireScalar>
+          <Defn dbId="154" endX="500" endY="310" name="" startX="470" startY="310"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="470" x2="500" y1="310" y2="310"/>
+          </WireBBox>
+        </WireScalar>
+        <WireScalar>
+          <Defn dbId="191" endX="500" endY="360" name="" startX="530" startY="360"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="500" x2="530" y1="360" y2="360"/>
+          </WireBBox>
+        </WireScalar>
+        <WireScalar>
+          <Defn dbId="195" endX="500" endY="310" name="" startX="500" startY="360"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="500" x2="500" y1="310" y2="360"/>
+          </WireBBox>
+        </WireScalar>
+        <WireScalar>
+          <Defn dbId="199" endX="600" endY="310" name="" startX="500" startY="310"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="500" x2="600" y1="310" y2="310"/>
+          </WireBBox>
+          <Junction>
+            <Defn locX="500" locY="310"/>
+          </Junction>
+        </WireScalar>
+      </NetScalar>
+      <NetScalar>
+        <Defn name=""/>
+        <WireScalar>
+          <Defn dbId="158" endX="670" endY="310" name="" startX="640" startY="310"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="640" x2="670" y1="310" y2="310"/>
+          </WireBBox>
+        </WireScalar>
+        <WireScalar>
+          <Defn dbId="162" endX="670" endY="380" name="" startX="670" startY="310"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="670" x2="670" y1="310" y2="380"/>
+          </WireBBox>
+        </WireScalar>
+        <WireScalar>
+          <Defn dbId="164" endX="610" endY="380" name="" startX="670" startY="380"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="610" x2="670" y1="380" y2="380"/>
+          </WireBBox>
+        </WireScalar>
+        <WireScalar>
+          <Defn dbId="170" endX="760" endY="380" name="" startX="670" startY="380"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="670" x2="760" y1="380" y2="380"/>
+          </WireBBox>
+          <Junction>
+            <Defn locX="670" locY="380"/>
+          </Junction>
+        </WireScalar>
+      </NetScalar>
+      <NetScalar>
+        <Defn name=""/>
+        <WireScalar>
+          <Defn dbId="177" endX="500" endY="400" name="" startX="470" startY="400"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="470" x2="500" y1="400" y2="400"/>
+          </WireBBox>
+        </WireScalar>
+        <WireScalar>
+          <Defn dbId="181" endX="500" endY="400" name="" startX="500" startY="420"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="500" x2="500" y1="400" y2="420"/>
+          </WireBBox>
+          <Junction>
+            <Defn locX="500" locY="400"/>
+          </Junction>
+        </WireScalar>
+        <WireScalar>
+          <Defn dbId="185" endX="530" endY="400" name="" startX="500" startY="400"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="500" x2="530" y1="400" y2="400"/>
+          </WireBBox>
+        </WireScalar>
+      </NetScalar>
+      <NetScalar>
+        <Defn name=""/>
+        <WireScalar>
+          <Defn dbId="206" endX="430" endY="400" name="" startX="390" startY="400"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="390" x2="430" y1="400" y2="400"/>
+          </WireBBox>
+        </WireScalar>
+        <WireScalar>
+          <Defn dbId="216" endX="390" endY="360" name="" startX="390" startY="400"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="390" x2="390" y1="360" y2="400"/>
+          </WireBBox>
+        </WireScalar>
+        <WireScalar>
+          <Defn dbId="221" endX="330" endY="360" name="" startX="390" startY="360"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="330" x2="390" y1="360" y2="360"/>
+          </WireBBox>
+        </WireScalar>
+      </NetScalar>
+      <NetScalar>
+        <Defn name=""/>
+        <WireScalar>
+          <Defn dbId="227" endX="390" endY="310" name="" startX="430" startY="310"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="390" x2="430" y1="310" y2="310"/>
+          </WireBBox>
+        </WireScalar>
+        <WireScalar>
+          <Defn dbId="231" endX="390" endY="350" name="" startX="390" startY="310"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="390" x2="390" y1="310" y2="350"/>
+          </WireBBox>
+        </WireScalar>
+        <WireScalar>
+          <Defn dbId="236" endX="330" endY="350" name="" startX="390" startY="350"/>
+          <WireColor>
+            <Defn val="48"/>
+          </WireColor>
+          <WireLineStyle>
+            <Defn val="5"/>
+          </WireLineStyle>
+          <WireLineWidth>
+            <Defn val="3"/>
+          </WireLineWidth>
+          <WireBBox>
+            <Defn x1="330" x2="390" y1="350" y2="350"/>
+          </WireBBox>
+        </WireScalar>
+      </NetScalar>
+      <Global>
+        <Defn color="48" dbId="272" libName="C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB" locX="560" locY="220" mirror="0" name="+5V" rotation="0" symbolName="VCC_ARROW"/>
+        <GlobalDisplayProp>
+          <Defn dbId="873" locX="0" locY="-10" name="Name" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </GlobalDisplayProp>
+      </Global>
+      <Global>
+        <Defn color="48" dbId="58" libName="C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB" locX="560" locY="460" mirror="0" name="GND_SIGNAL" rotation="0" symbolName="GND_SIGNAL"/>
+      </Global>
+      <Global>
+        <Defn color="48" dbId="150" libName="C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB" locX="490" locY="460" mirror="0" name="GND_SIGNAL" rotation="0" symbolName="GND_SIGNAL"/>
+      </Global>
+      <Global>
+        <Defn color="48" dbId="247" libName="C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB" locX="730" locY="460" mirror="0" name="GND_SIGNAL" rotation="0" symbolName="GND_SIGNAL"/>
+      </Global>
+      <Global>
+        <Defn color="48" dbId="359" libName="C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB" locX="580" locY="280" mirror="0" name="GND_SIGNAL" rotation="0" symbolName="GND_SIGNAL"/>
+      </Global>
+      <Global>
+        <Defn color="48" dbId="513" libName="C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB" locX="340" locY="410" mirror="0" name="GND_SIGNAL" rotation="0" symbolName="GND_SIGNAL"/>
+      </Global>
+      <TitleBlock>
+        <Defn color="48" dbId="1" libName="C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB" locX="789" locY="716" name="TitleBlock0" rotation="0" symbolName="TitleBlock0"/>
+        <KeepInLowerRightCorner>
+          <Defn val="true"/>
+        </KeepInLowerRightCorner>
+        <PageCount>
+          <Defn count="0"/>
+        </PageCount>
+        <PageNumber>
+          <Defn val="0"/>
+        </PageNumber>
+        <TitleBlockDisplayProp>
+          <Defn dbId="785" locX="40" locY="60" name="Doc" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </TitleBlockDisplayProp>
+        <TitleBlockDisplayProp>
+          <Defn dbId="787" locX="340" locY="60" name="RevCode" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </TitleBlockDisplayProp>
+        <TitleBlockDisplayProp>
+          <Defn dbId="789" locX="40" locY="30" name="Title" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </TitleBlockDisplayProp>
+        <TitleBlockDisplayProp>
+          <Defn dbId="791" locX="10" locY="60" name="Page Size" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </TitleBlockDisplayProp>
+        <TitleBlockDisplayProp>
+          <Defn dbId="793" locX="250" locY="80" name="Page Number" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </TitleBlockDisplayProp>
+        <TitleBlockDisplayProp>
+          <Defn dbId="795" locX="310" locY="80" name="Page Count" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </TitleBlockDisplayProp>
+        <TitleBlockDisplayProp>
+          <Defn dbId="797" locX="52" locY="80" name="Page Modify Date" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </TitleBlockDisplayProp>
+        <TitleBlockUserProp>
+          <Defn name="Cage Code" val=""/>
+        </TitleBlockUserProp>
+        <TitleBlockUserProp>
+          <Defn name="OrgAddr1" val=""/>
+        </TitleBlockUserProp>
+        <TitleBlockUserProp>
+          <Defn name="OrgAddr2" val=""/>
+        </TitleBlockUserProp>
+        <TitleBlockUserProp>
+          <Defn name="OrgAddr3" val=""/>
+        </TitleBlockUserProp>
+        <TitleBlockUserProp>
+          <Defn name="OrgAddr4" val=""/>
+        </TitleBlockUserProp>
+        <TitleBlockUserProp>
+          <Defn name="OrgName" val=""/>
+        </TitleBlockUserProp>
+        <TitleBlockUserProp>
+          <Defn name="RevCode" val="0.1"/>
+        </TitleBlockUserProp>
+        <TitleBlockUserProp>
+          <Defn name="Title" val="This should be converted into KiCAD"/>
+        </TitleBlockUserProp>
+      </TitleBlock>
+      <PartInst>
+        <Defn color="48" dbId="48" deviceDesignator="" libName="C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\PSPICE\NAT_SEMI.OLB" locX="540" locY="350" mirror="0" name="INS32" pkgName="LM6171AIN" rotation="0"/>
+        <GraphicName>
+          <Defn name="LM6171AIN.Normal"/>
+        </GraphicName>
+        <PartInstDisplayProp>
+          <Defn dbId="859" locX="50" locY="-10" name="Part Reference" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </PartInstDisplayProp>
+        <PartInstDisplayProp>
+          <Defn dbId="861" locX="50" locY="0" name="Value" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </PartInstDisplayProp>
+        <PartInstUserProp>
+          <Defn name="PCB Footprint" val="DIP1008W300L450"/>
+        </PartInstUserProp>
+        <ContentsLibName>
+          <Defn name=""/>
+        </ContentsLibName>
+        <ContentsViewName>
+          <Defn name="LM6171A/NS"/>
+        </ContentsViewName>
+        <ContentsViewType>
+          <Defn type="5"/>
+        </ContentsViewType>
+        <IsPrimitiveProp>
+          <Defn type="2"/>
+        </IsPrimitiveProp>
+        <PartValue>
+          <Defn name="LM6171AIN"/>
+        </PartValue>
+        <Reference>
+          <Defn name="U1"/>
+        </Reference>
+        <PortInstScalar>
+          <Defn IsPlacedInstPin="1" dbId="865" hotptX="-10" hotptY="50" name="+" position="1" startX="0" startY="50" type="0" visible="1"/>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+        </PortInstScalar>
+        <PortInstScalar>
+          <Defn IsPlacedInstPin="1" dbId="863" hotptX="-10" hotptY="10" name="-" position="0" startX="0" startY="10" type="0" visible="1"/>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+        </PortInstScalar>
+        <PortInstScalar>
+          <Defn IsPlacedInstPin="1" dbId="869" hotptX="70" hotptY="30" name="OUT" position="3" startX="60" startY="30" type="2" visible="1"/>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+        </PortInstScalar>
+        <PortInstScalar>
+          <Defn IsPlacedInstPin="1" dbId="871" hotptX="30" hotptY="0" name="V+" position="4" startX="30" startY="0" type="4" visible="1"/>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+        </PortInstScalar>
+        <PortInstScalar>
+          <Defn IsPlacedInstPin="1" dbId="867" hotptX="30" hotptY="60" name="V-" position="2" startX="30" startY="60" type="4" visible="1"/>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+        </PortInstScalar>
+      </PartInst>
+      <PartInst>
+        <Defn color="48" dbId="91" deviceDesignator="" libName="C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB" locX="440" locY="300" mirror="0" name="INS81" pkgName="R" rotation="0"/>
+        <GraphicName>
+          <Defn name="R.Normal"/>
+        </GraphicName>
+        <PartInstDisplayProp>
+          <Defn dbId="843" locX="5" locY="-10" name="Part Reference" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </PartInstDisplayProp>
+        <PartInstDisplayProp>
+          <Defn dbId="845" locX="5" locY="15" name="Value" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </PartInstDisplayProp>
+        <PartInstUserProp>
+          <Defn name="PCB Footprint" val="AXRC05"/>
+        </PartInstUserProp>
+        <ContentsLibName>
+          <Defn name=""/>
+        </ContentsLibName>
+        <ContentsViewName>
+          <Defn name=""/>
+        </ContentsViewName>
+        <ContentsViewType>
+          <Defn type="0"/>
+        </ContentsViewType>
+        <IsPrimitiveProp>
+          <Defn type="2"/>
+        </IsPrimitiveProp>
+        <PartValue>
+          <Defn name="1k"/>
+        </PartValue>
+        <Reference>
+          <Defn name="R1"/>
+        </Reference>
+        <PortInstScalar>
+          <Defn IsPlacedInstPin="1" dbId="849" hotptX="-10" hotptY="10" name="1" position="1" startX="0" startY="10" type="4" visible="1"/>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+        </PortInstScalar>
+        <PortInstScalar>
+          <Defn IsPlacedInstPin="1" dbId="847" hotptX="30" hotptY="10" name="2" position="0" startX="20" startY="10" type="4" visible="1"/>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+        </PortInstScalar>
+      </PartInst>
+      <PartInst>
+        <Defn color="48" dbId="107" deviceDesignator="" libName="C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB" locX="610" locY="300" mirror="0" name="INS97" pkgName="R" rotation="0"/>
+        <GraphicName>
+          <Defn name="R.Normal"/>
+        </GraphicName>
+        <PartInstDisplayProp>
+          <Defn dbId="835" locX="5" locY="-10" name="Part Reference" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </PartInstDisplayProp>
+        <PartInstDisplayProp>
+          <Defn dbId="837" locX="5" locY="15" name="Value" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </PartInstDisplayProp>
+        <PartInstUserProp>
+          <Defn name="PCB Footprint" val="AXRC05"/>
+        </PartInstUserProp>
+        <ContentsLibName>
+          <Defn name=""/>
+        </ContentsLibName>
+        <ContentsViewName>
+          <Defn name=""/>
+        </ContentsViewName>
+        <ContentsViewType>
+          <Defn type="0"/>
+        </ContentsViewType>
+        <IsPrimitiveProp>
+          <Defn type="2"/>
+        </IsPrimitiveProp>
+        <PartValue>
+          <Defn name="1k"/>
+        </PartValue>
+        <Reference>
+          <Defn name="R2"/>
+        </Reference>
+        <PortInstScalar>
+          <Defn IsPlacedInstPin="1" dbId="841" hotptX="-10" hotptY="10" name="1" position="1" startX="0" startY="10" type="4" visible="1"/>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+        </PortInstScalar>
+        <PortInstScalar>
+          <Defn IsPlacedInstPin="1" dbId="839" hotptX="30" hotptY="10" name="2" position="0" startX="20" startY="10" type="4" visible="1"/>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+        </PortInstScalar>
+      </PartInst>
+      <PartInst>
+        <Defn color="48" dbId="123" deviceDesignator="" libName="C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB" locX="440" locY="390" mirror="0" name="INS113" pkgName="R" rotation="0"/>
+        <GraphicName>
+          <Defn name="R.Normal"/>
+        </GraphicName>
+        <PartInstDisplayProp>
+          <Defn dbId="827" locX="5" locY="-10" name="Part Reference" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </PartInstDisplayProp>
+        <PartInstDisplayProp>
+          <Defn dbId="829" locX="5" locY="15" name="Value" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </PartInstDisplayProp>
+        <PartInstUserProp>
+          <Defn name="PCB Footprint" val="AXRC05"/>
+        </PartInstUserProp>
+        <ContentsLibName>
+          <Defn name=""/>
+        </ContentsLibName>
+        <ContentsViewName>
+          <Defn name=""/>
+        </ContentsViewName>
+        <ContentsViewType>
+          <Defn type="0"/>
+        </ContentsViewType>
+        <IsPrimitiveProp>
+          <Defn type="2"/>
+        </IsPrimitiveProp>
+        <PartValue>
+          <Defn name="1k"/>
+        </PartValue>
+        <Reference>
+          <Defn name="R3"/>
+        </Reference>
+        <PortInstScalar>
+          <Defn IsPlacedInstPin="1" dbId="833" hotptX="-10" hotptY="10" name="1" position="1" startX="0" startY="10" type="4" visible="1"/>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+        </PortInstScalar>
+        <PortInstScalar>
+          <Defn IsPlacedInstPin="1" dbId="831" hotptX="30" hotptY="10" name="2" position="0" startX="20" startY="10" type="4" visible="1"/>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+        </PortInstScalar>
+      </PartInst>
+      <PartInst>
+        <Defn color="48" dbId="139" deviceDesignator="" libName="C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB" locX="490" locY="430" mirror="0" name="INS129" pkgName="R" rotation="1"/>
+        <GraphicName>
+          <Defn name="R.Normal"/>
+        </GraphicName>
+        <PartInstDisplayProp>
+          <Defn dbId="811" locX="26" locY="0" name="Part Reference" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </PartInstDisplayProp>
+        <PartInstDisplayProp>
+          <Defn dbId="813" locX="26" locY="12" name="Value" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </PartInstDisplayProp>
+        <PartInstUserProp>
+          <Defn name="PCB Footprint" val="AXRC05"/>
+        </PartInstUserProp>
+        <ContentsLibName>
+          <Defn name=""/>
+        </ContentsLibName>
+        <ContentsViewName>
+          <Defn name=""/>
+        </ContentsViewName>
+        <ContentsViewType>
+          <Defn type="0"/>
+        </ContentsViewType>
+        <IsPrimitiveProp>
+          <Defn type="2"/>
+        </IsPrimitiveProp>
+        <PartValue>
+          <Defn name="1k"/>
+        </PartValue>
+        <Reference>
+          <Defn name="R4"/>
+        </Reference>
+        <PortInstScalar>
+          <Defn IsPlacedInstPin="1" dbId="817" hotptX="-10" hotptY="10" name="1" position="1" startX="0" startY="10" type="4" visible="1"/>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+        </PortInstScalar>
+        <PortInstScalar>
+          <Defn IsPlacedInstPin="1" dbId="815" hotptX="30" hotptY="10" name="2" position="0" startX="20" startY="10" type="4" visible="1"/>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+        </PortInstScalar>
+      </PartInst>
+      <PartInst>
+        <Defn color="48" dbId="301" deviceDesignator="" libName="C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB" locX="580" locY="260" mirror="0" name="INS291" pkgName="C" rotation="1"/>
+        <GraphicName>
+          <Defn name="C.Normal"/>
+        </GraphicName>
+        <PartInstDisplayProp>
+          <Defn dbId="851" locX="26" locY="0" name="Part Reference" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </PartInstDisplayProp>
+        <PartInstDisplayProp>
+          <Defn dbId="853" locX="26" locY="12" name="Value" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </PartInstDisplayProp>
+        <PartInstUserProp>
+          <Defn name="PCB Footprint" val="cap196"/>
+        </PartInstUserProp>
+        <ContentsLibName>
+          <Defn name=""/>
+        </ContentsLibName>
+        <ContentsViewName>
+          <Defn name=""/>
+        </ContentsViewName>
+        <ContentsViewType>
+          <Defn type="0"/>
+        </ContentsViewType>
+        <IsPrimitiveProp>
+          <Defn type="2"/>
+        </IsPrimitiveProp>
+        <PartValue>
+          <Defn name="1uF"/>
+        </PartValue>
+        <Reference>
+          <Defn name="C1"/>
+        </Reference>
+        <PortInstScalar>
+          <Defn IsPlacedInstPin="1" dbId="855" hotptX="-10" hotptY="10" name="1" position="0" startX="0" startY="10" type="4" visible="1"/>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+        </PortInstScalar>
+        <PortInstScalar>
+          <Defn IsPlacedInstPin="1" dbId="857" hotptX="20" hotptY="10" name="2" position="1" startX="10" startY="10" type="4" visible="1"/>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+        </PortInstScalar>
+      </PartInst>
+      <PartInst>
+        <Defn color="48" dbId="412" deviceDesignator="" libName="C:\CADENCE\DP\SYMBOLS\CONNECTOR.OLB" locX="770" locY="360" mirror="1" name="INS402" pkgName="CONN_HEADER_2_P_S" rotation="0"/>
+        <GraphicName>
+          <Defn name="CONN_HEADER_2_P_S.Normal"/>
+        </GraphicName>
+        <PartInstDisplayProp>
+          <Defn dbId="819" locX="40" locY="10" name="Part Reference" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </PartInstDisplayProp>
+        <PartInstDisplayProp>
+          <Defn dbId="821" locX="40" locY="20" name="Value" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </PartInstDisplayProp>
+        <PartInstUserProp>
+          <Defn name="ALT_SYMBOLS" val="WURTH_61300211121_A2A,WURTH_61300211121_A2C"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Additional Datasheet URL" val="https://www.we-online.com/en/components/products/PHD_2_54_THT_PIN_HEADER_6130XX11121#61300211121"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Budgetary Price" val=".06 USD"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Country of Origin" val="Taiwan"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Datasheet URL" val="https://www.we-online.com/components/products/datasheet/61300211121.pdf"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Description" val="CONNECTOR, HEADER, MALE, STRAIGHT, 1 ROW(S), 2 PIN(S), PITCH 2.54mm, PTH"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Lead Time" val="13"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Mass" val="N/A"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Maximum Operating Temperature" val="+105DEGC"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Minimum Operating Temperature" val="-40DEGC"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Mounting Type" val="PTH"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="NOTEfied URL" val="https://webinterface.notefied-dynamic-precision.com/item/62668710"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Number of Positions" val="2"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Number of Rows" val="1"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="PCB Footprint" val="WURTH_61300211121_A2B"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Packing Size" val="1000"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Packing Type" val="Bag"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Part Number" val="06-16671"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Part Type" val="Connector|HEADER|STANDARD"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Pitch" val="2.54mm"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="ROHS" val="Compliant"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Rated Current" val="3A"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Rated Voltage" val="250V"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Status" val="Released"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Type" val="Connector"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Vendor" val="WURTH"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Vendor Part Number" val="61300211121"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Vendor Part Status" val="Active"/>
+        </PartInstUserProp>
+        <ContentsLibName>
+          <Defn name=""/>
+        </ContentsLibName>
+        <ContentsViewName>
+          <Defn name=""/>
+        </ContentsViewName>
+        <ContentsViewType>
+          <Defn type="0"/>
+        </ContentsViewType>
+        <IsPrimitiveProp>
+          <Defn type="2"/>
+        </IsPrimitiveProp>
+        <PartValue>
+          <Defn name="61300211121"/>
+        </PartValue>
+        <Reference>
+          <Defn name="J2"/>
+        </Reference>
+        <PortInstScalar>
+          <Defn IsPlacedInstPin="1" dbId="823" hotptX="40" hotptY="20" name="1" position="0" startX="30" startY="20" type="4" visible="1"/>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+        </PortInstScalar>
+        <PortInstScalar>
+          <Defn IsPlacedInstPin="1" dbId="825" hotptX="40" hotptY="30" name="2" position="1" startX="30" startY="30" type="4" visible="1"/>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+        </PortInstScalar>
+      </PartInst>
+      <PartInst>
+        <Defn color="48" dbId="478" deviceDesignator="" libName="C:\CADENCE\DP\SYMBOLS\CONNECTOR.OLB" locX="290" locY="320" mirror="0" name="INS464" pkgName="CONN_HEADER_4_P_S" rotation="0"/>
+        <GraphicName>
+          <Defn name="CONN_HEADER_4_P_S.Normal"/>
+        </GraphicName>
+        <PartInstDisplayProp>
+          <Defn dbId="799" locX="0" locY="-20" name="Part Reference" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </PartInstDisplayProp>
+        <PartInstDisplayProp>
+          <Defn dbId="801" locX="0" locY="-10" name="Value" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </PartInstDisplayProp>
+        <PartInstUserProp>
+          <Defn name="ALT_SYMBOLS" val="WURTH_691701310004B_A2A,WURTH_691701310004B_A2C"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Additional Datasheet URL" val="https://www.we-online.com/en/components/products/WR_TBL_SERIES_7013B_TERMINAL_BLOCKS_PCB_HEADER_3_81_MM_PITCH_THR#691701310004B"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Budgetary Price" val=" "/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Country of Origin" val="Missing Info"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Datasheet URL" val="https://www.we-online.com/components/products/datasheet/691701310004B.pdf"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Description" val="CONNECTOR, HEADER, SHROUDED, MALE, STRAIGHT, 1 ROW(S), 4 PIN(S), PITCH 3.81mm, PTH"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Mass" val="N/A"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Maximum Operating Temperature" val="+105DEGC"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Minimum Operating Temperature" val="-40DEGC"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Mounting Type" val="PTH"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="NOTEfied URL" val="https://webinterface.notefied-dynamic-precision.com/item/26602628"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Number of Positions" val="4"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Number of Rows" val="1"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="PCB Footprint" val="WURTH_691701310004B_A2B"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Packing Size" val="250"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Packing Type" val="Tape &amp; Reel"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Part Number" val="06-09985"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Part Type" val="Connector|HEADER|SHROUDED"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Pitch" val="3.81mm"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="ROHS" val="Compliant"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Rated Current" val="10A"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Rated Voltage" val="300VAC"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Status" val="Released"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Type" val="Connector"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Vendor" val="WURTH"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Vendor Part Number" val="691701310004B"/>
+        </PartInstUserProp>
+        <PartInstUserProp>
+          <Defn name="Vendor Part Status" val="Active"/>
+        </PartInstUserProp>
+        <ContentsLibName>
+          <Defn name=""/>
+        </ContentsLibName>
+        <ContentsViewName>
+          <Defn name=""/>
+        </ContentsViewName>
+        <ContentsViewType>
+          <Defn type="0"/>
+        </ContentsViewType>
+        <IsPrimitiveProp>
+          <Defn type="2"/>
+        </IsPrimitiveProp>
+        <PartValue>
+          <Defn name="691701310004B"/>
+        </PartValue>
+        <Reference>
+          <Defn name="J1"/>
+        </Reference>
+        <PortInstScalar>
+          <Defn IsPlacedInstPin="1" dbId="803" hotptX="40" hotptY="20" name="1" position="0" startX="30" startY="20" type="4" visible="1"/>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+        </PortInstScalar>
+        <PortInstScalar>
+          <Defn IsPlacedInstPin="1" dbId="805" hotptX="40" hotptY="30" name="2" position="1" startX="30" startY="30" type="4" visible="1"/>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+        </PortInstScalar>
+        <PortInstScalar>
+          <Defn IsPlacedInstPin="1" dbId="807" hotptX="40" hotptY="40" name="3" position="2" startX="30" startY="40" type="4" visible="1"/>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+        </PortInstScalar>
+        <PortInstScalar>
+          <Defn IsPlacedInstPin="1" dbId="809" hotptX="40" hotptY="50" name="4" position="3" startX="30" startY="50" type="4" visible="1"/>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+        </PortInstScalar>
+      </PartInst>
+    </Page>
+  </Schematic>
+
+  <Occurrences>
+    <Defn/>
+    <InstOccurrence>
+      <Defn refInstId="-1"/>
+      <TitleBlockOccurrence>
+        <Defn refInstId="1"/>
+        <OccUserProp>
+          <Defn name="ID" val="2"/>
+        </OccUserProp>
+        <OccUserProp>
+          <Defn name="Path Name" val="TitleBlock0"/>
+        </OccUserProp>
+        <OccUserProp>
+          <Defn name="Schematic Path" val="/"/>
+        </OccUserProp>
+      </TitleBlockOccurrence>
+      <InstOccurrence>
+        <Defn refInstId="48"/>
+        <OccUserProp>
+          <Defn name="ID" val="3"/>
+        </OccUserProp>
+        <PortOccurrence>
+          <Defn keyType="PinPosition" refBusMemberName="" refKey="0" refPortName="-"/>
+          <OccUserProp>
+            <Defn name="ID" val="4"/>
+          </OccUserProp>
+          <OccUserProp>
+            <Defn name="Path Name" val="U1/-"/>
+          </OccUserProp>
+        </PortOccurrence>
+        <PortOccurrence>
+          <Defn keyType="PinPosition" refBusMemberName="" refKey="1" refPortName="+"/>
+          <OccUserProp>
+            <Defn name="ID" val="5"/>
+          </OccUserProp>
+          <OccUserProp>
+            <Defn name="Path Name" val="U1/+"/>
+          </OccUserProp>
+        </PortOccurrence>
+        <PortOccurrence>
+          <Defn keyType="PinPosition" refBusMemberName="" refKey="2" refPortName="V-"/>
+          <OccUserProp>
+            <Defn name="ID" val="6"/>
+          </OccUserProp>
+          <OccUserProp>
+            <Defn name="Path Name" val="U1/V-"/>
+          </OccUserProp>
+        </PortOccurrence>
+        <PortOccurrence>
+          <Defn keyType="PinPosition" refBusMemberName="" refKey="3" refPortName="OUT"/>
+          <OccUserProp>
+            <Defn name="ID" val="7"/>
+          </OccUserProp>
+          <OccUserProp>
+            <Defn name="Path Name" val="U1/OUT"/>
+          </OccUserProp>
+        </PortOccurrence>
+        <PortOccurrence>
+          <Defn keyType="PinPosition" refBusMemberName="" refKey="4" refPortName="V+"/>
+          <OccUserProp>
+            <Defn name="ID" val="8"/>
+          </OccUserProp>
+          <OccUserProp>
+            <Defn name="Path Name" val="U1/V+"/>
+          </OccUserProp>
+        </PortOccurrence>
+      </InstOccurrence>
+      <InstOccurrence>
+        <Defn refInstId="91"/>
+        <OccUserProp>
+          <Defn name="ID" val="10"/>
+        </OccUserProp>
+        <PortOccurrence>
+          <Defn keyType="PinPosition" refBusMemberName="" refKey="0" refPortName="2"/>
+          <OccUserProp>
+            <Defn name="ID" val="11"/>
+          </OccUserProp>
+          <OccUserProp>
+            <Defn name="Path Name" val="R1/2"/>
+          </OccUserProp>
+        </PortOccurrence>
+        <PortOccurrence>
+          <Defn keyType="PinPosition" refBusMemberName="" refKey="1" refPortName="1"/>
+          <OccUserProp>
+            <Defn name="ID" val="12"/>
+          </OccUserProp>
+          <OccUserProp>
+            <Defn name="Path Name" val="R1/1"/>
+          </OccUserProp>
+        </PortOccurrence>
+      </InstOccurrence>
+      <InstOccurrence>
+        <Defn refInstId="107"/>
+        <OccUserProp>
+          <Defn name="ID" val="13"/>
+        </OccUserProp>
+        <PortOccurrence>
+          <Defn keyType="PinPosition" refBusMemberName="" refKey="0" refPortName="2"/>
+          <OccUserProp>
+            <Defn name="ID" val="14"/>
+          </OccUserProp>
+          <OccUserProp>
+            <Defn name="Path Name" val="R2/2"/>
+          </OccUserProp>
+        </PortOccurrence>
+        <PortOccurrence>
+          <Defn keyType="PinPosition" refBusMemberName="" refKey="1" refPortName="1"/>
+          <OccUserProp>
+            <Defn name="ID" val="15"/>
+          </OccUserProp>
+          <OccUserProp>
+            <Defn name="Path Name" val="R2/1"/>
+          </OccUserProp>
+        </PortOccurrence>
+      </InstOccurrence>
+      <InstOccurrence>
+        <Defn refInstId="123"/>
+        <OccUserProp>
+          <Defn name="ID" val="16"/>
+        </OccUserProp>
+        <PortOccurrence>
+          <Defn keyType="PinPosition" refBusMemberName="" refKey="0" refPortName="2"/>
+          <OccUserProp>
+            <Defn name="ID" val="17"/>
+          </OccUserProp>
+          <OccUserProp>
+            <Defn name="Path Name" val="R3/2"/>
+          </OccUserProp>
+        </PortOccurrence>
+        <PortOccurrence>
+          <Defn keyType="PinPosition" refBusMemberName="" refKey="1" refPortName="1"/>
+          <OccUserProp>
+            <Defn name="ID" val="18"/>
+          </OccUserProp>
+          <OccUserProp>
+            <Defn name="Path Name" val="R3/1"/>
+          </OccUserProp>
+        </PortOccurrence>
+      </InstOccurrence>
+      <InstOccurrence>
+        <Defn refInstId="139"/>
+        <OccUserProp>
+          <Defn name="ID" val="19"/>
+        </OccUserProp>
+        <PortOccurrence>
+          <Defn keyType="PinPosition" refBusMemberName="" refKey="0" refPortName="2"/>
+          <OccUserProp>
+            <Defn name="ID" val="20"/>
+          </OccUserProp>
+          <OccUserProp>
+            <Defn name="Path Name" val="R4/2"/>
+          </OccUserProp>
+        </PortOccurrence>
+        <PortOccurrence>
+          <Defn keyType="PinPosition" refBusMemberName="" refKey="1" refPortName="1"/>
+          <OccUserProp>
+            <Defn name="ID" val="21"/>
+          </OccUserProp>
+          <OccUserProp>
+            <Defn name="Path Name" val="R4/1"/>
+          </OccUserProp>
+        </PortOccurrence>
+      </InstOccurrence>
+      <InstOccurrence>
+        <Defn refInstId="301"/>
+        <OccUserProp>
+          <Defn name="ID" val="31"/>
+        </OccUserProp>
+        <PortOccurrence>
+          <Defn keyType="PinPosition" refBusMemberName="" refKey="0" refPortName="1"/>
+          <OccUserProp>
+            <Defn name="ID" val="32"/>
+          </OccUserProp>
+          <OccUserProp>
+            <Defn name="Path Name" val="C1/1"/>
+          </OccUserProp>
+        </PortOccurrence>
+        <PortOccurrence>
+          <Defn keyType="PinPosition" refBusMemberName="" refKey="1" refPortName="2"/>
+          <OccUserProp>
+            <Defn name="ID" val="33"/>
+          </OccUserProp>
+          <OccUserProp>
+            <Defn name="Path Name" val="C1/2"/>
+          </OccUserProp>
+        </PortOccurrence>
+      </InstOccurrence>
+      <InstOccurrence>
+        <Defn refInstId="412"/>
+        <OccUserProp>
+          <Defn name="ID" val="35"/>
+        </OccUserProp>
+        <PortOccurrence>
+          <Defn keyType="PinPosition" refBusMemberName="" refKey="0" refPortName="1"/>
+          <OccUserProp>
+            <Defn name="ID" val="36"/>
+          </OccUserProp>
+          <OccUserProp>
+            <Defn name="Path Name" val="J2/1"/>
+          </OccUserProp>
+        </PortOccurrence>
+        <PortOccurrence>
+          <Defn keyType="PinPosition" refBusMemberName="" refKey="1" refPortName="2"/>
+          <OccUserProp>
+            <Defn name="ID" val="37"/>
+          </OccUserProp>
+          <OccUserProp>
+            <Defn name="Path Name" val="J2/2"/>
+          </OccUserProp>
+        </PortOccurrence>
+      </InstOccurrence>
+      <InstOccurrence>
+        <Defn refInstId="478"/>
+        <OccUserProp>
+          <Defn name="ID" val="38"/>
+        </OccUserProp>
+        <PortOccurrence>
+          <Defn keyType="PinPosition" refBusMemberName="" refKey="0" refPortName="1"/>
+          <OccUserProp>
+            <Defn name="ID" val="39"/>
+          </OccUserProp>
+          <OccUserProp>
+            <Defn name="Path Name" val="J1/1"/>
+          </OccUserProp>
+        </PortOccurrence>
+        <PortOccurrence>
+          <Defn keyType="PinPosition" refBusMemberName="" refKey="1" refPortName="2"/>
+          <OccUserProp>
+            <Defn name="ID" val="40"/>
+          </OccUserProp>
+          <OccUserProp>
+            <Defn name="Path Name" val="J1/2"/>
+          </OccUserProp>
+        </PortOccurrence>
+        <PortOccurrence>
+          <Defn keyType="PinPosition" refBusMemberName="" refKey="2" refPortName="3"/>
+          <OccUserProp>
+            <Defn name="ID" val="41"/>
+          </OccUserProp>
+          <OccUserProp>
+            <Defn name="Path Name" val="J1/3"/>
+          </OccUserProp>
+        </PortOccurrence>
+        <PortOccurrence>
+          <Defn keyType="PinPosition" refBusMemberName="" refKey="3" refPortName="4"/>
+          <OccUserProp>
+            <Defn name="ID" val="42"/>
+          </OccUserProp>
+          <OccUserProp>
+            <Defn name="Path Name" val="J1/4"/>
+          </OccUserProp>
+        </PortOccurrence>
+      </InstOccurrence>
+    </InstOccurrence>
+  </Occurrences>
+
+  <CIS>
+    <Defn/>
+    <Groups>
+      <Defn/>
+      <Common>
+        <Defn/>
+        <CommonCorePart OccId="38" PartNumber="06-09985" Reference="J1"/>
+        <CommonCorePart OccId="35" PartNumber="06-16671" Reference="J2"/>
+        <CommonCorePart OccId="31" PartNumber="" Reference="C1"/>
+        <CommonCorePart OccId="19" PartNumber="" Reference="R4"/>
+        <CommonCorePart OccId="16" PartNumber="" Reference="R3"/>
+        <CommonCorePart OccId="13" PartNumber="" Reference="R2"/>
+        <CommonCorePart OccId="10" PartNumber="" Reference="R1"/>
+        <CommonCorePart OccId="3" PartNumber="" Reference="U1"/>
+      </Common>
+    </Groups>
+    <BOMVariants>
+      <Defn/>
+    </BOMVariants>
+  </CIS>
+
+</Design>

@@ -1,0 +1,23 @@
+
+Copyright (c) 2006-2023, Elgris Technologies, Inc.
+
+OrCAD Capture to EDIF 2 0 0 Schematic Conversion Program SPB 23.10_1.125 built Feb  6 2024
+
+Started on Thu Jun 26 13:28:43 2025
+
+Reading config file c:\cadence\spb_23.1\tools\capture\cap2edi.cfg
+
+orcadread :Converting file C:\USERS\JR\DOCUMENTS\ORCAD KICAD CONVERTER EXAMPLES\ORCAD\EXAMPLE.DSN 
+Converting SchematicView   SCHEMATIC1 
+	Converting elements on  page PAGE1
+		Converting Parts
+		converting Globals of Page PAGE1 of SchematicView SCHEMATIC1
+		Converting Buses and Nets of Schematic View SCHEMATIC1 
+
+Writing EDIF: C:\Users\JR\Documents\orcad kicad converter examples\orcad\EXAMPLE.EDF
+
+
+Finished on Thu Jun 26 13:28:44 2025
+
+
+0 errors detected, 0 warnings detected
