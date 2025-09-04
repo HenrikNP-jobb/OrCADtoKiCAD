@@ -10,12 +10,12 @@ this should by default output into a tmp folder the new logs
 
 
 # step 2: from logs to kicad symbol lib:
-cd into <OrCADtoKiCAD/orcad kicad converter example/orcad>
-first we need to convert the logs from step 1: to kicad.sch
-this is done by run_all_logs.py "path to log created" --scale 0.254(standard scale conversion OrCAD to KiCAD) --convert-script(based on type of log we want to convert) --out-dir(where to write the results of symbol conversion, can be updated with more symbols, supports multiple --convert-script)
-cmd: python3 run_all_logs.py   "/tmp/OpenOrCadParser/0ba6d31e51a6d51ac704fa84247fa4d1/logs/nat_semi.olb/Packages/"   --scale 0.254   --convert-script "/home/hnp/Desktop/OrCADtoKiCAD/orcad kicad converter example/orcad/convert_log.py"   --out-dir "/home/hnp/Desktop/OrCADtoKiCAD/orcad kicad converter example/orcad/converted"
-however depending on type of OrCAD symbol library and format they use, we need to change "--convert-script" used. current options are convert_log.py & convert_dsn.py" 
-when this is run we get a kicad symbol library, this can be imported into kicad.
+- cd into <OrCADtoKiCAD/orcad kicad converter example/orcad>
+- first we need to convert the logs from step 1: to kicad.sch
+- this is done by run_all_logs.py "path to log created" --scale 0.254(standard scale conversion OrCAD to KiCAD) --convert-script(based on type of log we want to convert) --out-dir(where to write the results of symbol conversion, can be updated with more symbols, supports multiple --convert-script)
+- cmd: python3 run_all_logs.py   "/tmp/OpenOrCadParser/0ba6d31e51a6d51ac704fa84247fa4d1/logs/nat_semi.olb/Packages/"   --scale 0.254   --convert-script "/home/hnp/Desktop/OrCADtoKiCAD/orcad kicad converter example/orcad/convert_log.py"   --out-dir "/home/hnp/Desktop/OrCADtoKiCAD/orcad kicad converter example/orcad/converted"
+- however depending on type of OrCAD symbol library and format they use, we need to change "--convert-script" used. current options are convert_log.py & convert_dsn.py" 
+- when this is run we get a kicad symbol library, this can be imported into kicad.
 
 # step 3: converting the schematic: 
 export orcad schematic as xml
