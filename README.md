@@ -5,7 +5,7 @@
 
 # step 1: Importing and converting OrCAD symbol libraries: 
 - first, extract .OLB symbol files from OrCAD(the symbol lib's used by schematic)
-- then we need to use the OrCAD symbol-> log converter borrowed from https://github.com/Werni2A/OpenOrCadParser
+- then we need to use the OrCAD symbol-> log converter from https://github.com/Werni2A/OpenOrCadParser
 - this should by default output into a tmp folder the new logs
 
 
