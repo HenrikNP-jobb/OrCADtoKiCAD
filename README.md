@@ -3,11 +3,25 @@
 # Requires Kicad Version:9+ 
 # python 3.6+ 
 
-# To run:
-1. cd into <OrCADtoKiCAD/orcad kicad converter example/orcad>
-2. run: "python3 orcad2kicad_sch.py --xml example.xml --out design.kicad_sch"
-3. Open design.kicad_sch in Kicad 9
-4. you will see some of the things are converted
+# step 1: Importing and converting OrCAD symbol libraries: 
+first, extract .OLB symbol files from OrCAD(the symbol lib's used by schematic)
+then we need to use the OrCAD symbol-> log converter borrowed from https://github.com/Werni2A/OpenOrCadParser
+this should by default output into a tmp folder the new logs
+
+
+# step 2: from logs to kicad symbol lib:
+cd into <OrCADtoKiCAD/orcad kicad converter example/orcad>
+first we need to convert the logs from step 1: to kicad.sch
+this is done by run_all_logs.py "path to log created" --scale 0.254(standard scale conversion OrCAD to KiCAD) --convert-script(based on type of log we want to convert) --out-dir(where to write the results of symbol conversion, can be updated with more symbols, supports multiple --convert-script)
+cmd: python3 run_all_logs.py   "/tmp/OpenOrCadParser/0ba6d31e51a6d51ac704fa84247fa4d1/logs/nat_semi.olb/Packages/"   --scale 0.254   --convert-script "/home/hnp/Desktop/OrCADtoKiCAD/orcad kicad converter example/orcad/convert_log.py"   --out-dir "/home/hnp/Desktop/OrCADtoKiCAD/orcad kicad converter example/orcad/converted"
+however depending on type of OrCAD symbol library and format they use, we need to change "--convert-script" used. current options are convert_log.py & convert_dsn.py" 
+when this is run we get a kicad symbol library, this can be imported into kicad.
+
+# step 3: converting the schematic: 
+export orcad schematic as xml
+then run:  python3 orcad2kicad_sch.py   --xml(path to the xml for the design schematic)   --out "design.kicad_sch"   --symdir /usr/share/kicad/symbols   --converted-dir(step 2, converted symbol libraries)   --converted-lib-file(step 2, converted symbol library dict)   --converted-lib(new symbol sch.kicad_sym) --converted-lib converted(library name in kicad) 
+cmd: python3 orcad2kicad_sch.py   --xml "/home/hnp/Desktop/new git/OrCADtoKiCAD/orcad kicad converter example/orcad/example.xml"   --out "design.kicad_sch"   --symdir /usr/share/kicad/symbols   --converted-dir "/home/hnp/Desktop/new git/OrCADtoKiCAD/orcad kicad converter example/orcad/converted"   --converted-lib-file "/home/hnp/Desktop/new git/OrCADtoKiCAD/orcad kicad converter example/orcad/converted/converted_sch.kicad_sym"   --converted-lib converted
+then open in kicad and it should be converted
 
 
 # What we want to convert: 
